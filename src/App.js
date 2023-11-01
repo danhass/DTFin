@@ -15,9 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React XXX         
         </a>
       </header>
+      <p>DanTech Finance</p>
     </div>
   );
 }
